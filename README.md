@@ -10,4 +10,4 @@
 
 ## 目次
 
-* [Document Type Definition](./text/01.md)
+* [Document Type Definition](./episodes/01.md)
