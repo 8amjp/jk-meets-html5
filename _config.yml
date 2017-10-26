@@ -1,11 +1,12 @@
 title: 5.1回目の恋 〜恋に落ちるコード.html〜
-description: 技術系コメディ/短編
+author: 8amjp
+description: >
+  篠宮樹里と瀬尾絵子。二人はHTML5.1という恋の迷路に迷い込みます。
+  [技術系コメディ/短編]
 index: manual
 
-author: 8amjp
-image: site-icon.png
+image: icon.png
 type: novel
-card: summary
 google_analytics: UA-41627578-3
 twitter:
   username: 8amjp
