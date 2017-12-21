@@ -13,4 +13,4 @@
 
 ## 目次
 
-* [Document Type Definition](episodes/01.md)
+* [Document Type Definition](episodes/001.md)
